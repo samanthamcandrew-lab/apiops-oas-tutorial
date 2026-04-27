@@ -4,7 +4,7 @@ metadata:
   name: generated-crd
   namespace: default
 spec:
-  name: Petstore API UPDATED
+  name: Sam API
   description: A sample API to illustrate OpenAPI concepts
   version: 1.0.0
   type: PROXY
