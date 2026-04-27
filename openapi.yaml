@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   version: 1.0.0
-  title: Sam API
+  title: Sam API 3rd Try
   description: A sample API to illustrate OpenAPI concepts
 paths:
   /list:
