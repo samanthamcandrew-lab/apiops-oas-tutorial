@@ -4,7 +4,7 @@ metadata:
   name: generated-crd
   namespace: default
 spec:
-  name: Sam API
+  name: Sam API 3rd Try
   description: A sample API to illustrate OpenAPI concepts
   version: 1.0.0
   type: PROXY
